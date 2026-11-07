@@ -1,0 +1,25 @@
+{
+  "origin": "HYD",
+  "destination": "DFW",
+  "adults": 2,
+  "currency": "USD",
+  "threshold": 2200,
+  "realert_drop": 25,
+  "departure_window": {
+    "from": "2027-03-17",
+    "to": "2027-04-30"
+  },
+  "trip_length": {
+    "min_days": 160,
+    "max_days": 165,
+    "step_days": 1
+  },
+  "exact_stops": 1,
+  "layover_airports": [],
+  "searches_per_run": 2,
+  "check_every_hours": 6,
+  "serpapi_key": "",
+  "alerts": {
+    "macos": true
+  }
+}

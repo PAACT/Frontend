@@ -1,0 +1,134 @@
+{
+  "checks": [
+    {
+      "time": "2026-10-23T21:58:51",
+      "depart": "2027-02-17",
+      "return": "2027-07-29",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAyLTE3KAJqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wNy0yOSgCagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2123.0,
+      "airlines": "American, Etihad",
+      "stops": 2,
+      "duration_min": 1989,
+      "summary": "HYD \u2192 AUH \u2192 CLT \u2192 DFW"
+    },
+    {
+      "time": "2026-10-23T21:58:51",
+      "depart": "2027-02-18",
+      "return": "2027-07-30",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAyLTE4KAJqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wNy0zMCgCagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2253.0,
+      "airlines": "American, Etihad",
+      "stops": 2,
+      "duration_min": 1731,
+      "summary": "HYD \u2192 AUH \u2192 BOS \u2192 DFW"
+    },
+    {
+      "time": "2026-10-23T21:58:51",
+      "depart": "2027-02-19",
+      "return": "2027-07-31",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAyLTE5KAJqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wNy0zMSgCagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2265.0,
+      "airlines": "American, Etihad",
+      "stops": 2,
+      "duration_min": 2162,
+      "summary": "HYD \u2192 AUH \u2192 ATL \u2192 DFW"
+    },
+    {
+      "time": "2026-10-23T21:58:51",
+      "depart": "2027-02-20",
+      "return": "2027-08-01",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAyLTIwKAJqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wOC0wMSgCagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2337.0,
+      "airlines": "American, Etihad",
+      "stops": 2,
+      "duration_min": 1757,
+      "summary": "HYD \u2192 AUH \u2192 ATL \u2192 DFW"
+    },
+    {
+      "time": "2026-10-23T22:13:25",
+      "depart": "2027-02-17",
+      "return": "2027-07-25",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAyLTE3KAFqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wNy0yNSgBagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2398.0,
+      "airlines": "Cathay Pacific",
+      "stops": 1,
+      "layovers": [
+        "HKG"
+      ],
+      "duration_min": 1575,
+      "summary": "HYD \u2192 HKG \u2192 DFW"
+    },
+    {
+      "time": "2026-10-23T22:13:25",
+      "depart": "2027-02-17",
+      "return": "2027-07-26",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAyLTE3KAFqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wNy0yNigBagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2398.0,
+      "airlines": "Cathay Pacific",
+      "stops": 1,
+      "layovers": [
+        "HKG"
+      ],
+      "duration_min": 1575,
+      "summary": "HYD \u2192 HKG \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:44:06",
+      "depart": "2027-03-18",
+      "return": "2027-08-25",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAzLTE4KAFqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wOC0yNSgBagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2402.0,
+      "airlines": "American, British Airways",
+      "stops": 1,
+      "layovers": [
+        "LHR"
+      ],
+      "duration_min": 2460,
+      "summary": "HYD \u2192 LHR \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:44:06",
+      "depart": "2027-03-18",
+      "return": "2027-08-26",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAzLTE4KAFqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wOC0yNigBagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2402.0,
+      "airlines": "American, British Airways",
+      "stops": 1,
+      "layovers": [
+        "LHR"
+      ],
+      "duration_min": 2460,
+      "summary": "HYD \u2192 LHR \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:46:56",
+      "depart": "2027-03-18",
+      "return": "2027-08-27",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAzLTE4KAFqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wOC0yNygBagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2402.0,
+      "airlines": "American, British Airways",
+      "stops": 1,
+      "layovers": [
+        "LHR"
+      ],
+      "duration_min": 2460,
+      "summary": "HYD \u2192 LHR \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:46:56",
+      "depart": "2027-03-18",
+      "return": "2027-08-28",
+      "link": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhogEgoyMDI3LTAzLTE4KAFqBwgBEgNIWURyBwgBEgNERlcaIBIKMjAyNy0wOC0yOCgBagcIARIDREZXcgcIARIDSFlEQAFAAUgBcAGYAQE&tfu=EgIIAQ",
+      "price": 2402.0,
+      "airlines": "American, British Airways",
+      "stops": 1,
+      "layovers": [
+        "LHR"
+      ],
+      "duration_min": 2460,
+      "summary": "HYD \u2192 LHR \u2192 DFW"
+    }
+  ],
+  "cursor": 10,
+  "alerted": {}
+}

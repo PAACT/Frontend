@@ -1,0 +1,67 @@
+{
+  "checks": [
+    {
+      "time": "2026-11-06T11:50:07",
+      "depart": "2027-03-17",
+      "return": "2027-08-24",
+      "link": "https://www.google.com/travel/flights",
+      "price": 2073.65,
+      "airlines": "Etihad",
+      "stops": 1,
+      "layovers": [
+        "AUH"
+      ],
+      "duration_min": 1885,
+      "summary": "HYD \u2192 AUH \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:50:07",
+      "depart": "2027-03-17",
+      "return": "2027-08-25",
+      "link": "https://www.google.com/travel/flights",
+      "price": 1989.43,
+      "airlines": "Qatar Airways",
+      "stops": 1,
+      "layovers": [
+        "DOH"
+      ],
+      "duration_min": 1437,
+      "summary": "HYD \u2192 DOH \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:51:03",
+      "depart": "2027-03-17",
+      "return": "2027-08-26",
+      "link": "https://www.google.com/travel/flights",
+      "price": 1750.06,
+      "airlines": "Etihad",
+      "stops": 1,
+      "layovers": [
+        "AUH"
+      ],
+      "duration_min": 1665,
+      "summary": "HYD \u2192 AUH \u2192 DFW"
+    },
+    {
+      "time": "2026-11-06T11:51:03",
+      "depart": "2027-03-17",
+      "return": "2027-08-27",
+      "link": "https://www.google.com/travel/flights",
+      "price": 1762.53,
+      "airlines": "Qatar Airways",
+      "stops": 1,
+      "layovers": [
+        "DOH"
+      ],
+      "duration_min": 1854,
+      "summary": "HYD \u2192 DOH \u2192 DFW"
+    }
+  ],
+  "cursor": 4,
+  "alerted": {
+    "2027-03-17|2027-08-24": 2073.65,
+    "2027-03-17|2027-08-25": 1989.43,
+    "2027-03-17|2027-08-26": 1750.06,
+    "2027-03-17|2027-08-27": 1762.53
+  }
+}
